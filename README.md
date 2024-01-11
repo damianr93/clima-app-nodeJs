@@ -27,8 +27,8 @@ Crear un archivo .env en el directorio raíz del proyecto.
 Agregar las claves de API en el archivo .env:
 
  ```
-OPENWEATHER_API_KEY=TuClaveDeAPIOpenWeather
-MAPBOX_API_KEY=TuClaveDeAPIMapbox
+OPENWEATHER=TuClaveDeAPIOpenWeather
+MAPBOX_KEY=TuClaveDeAPIMapbox
  ```
 
  ## Uso
